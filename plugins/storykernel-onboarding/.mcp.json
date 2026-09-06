@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "storykernel-onboarding": {
+      "type": "http",
+      "url": "https://api.dev.pickford.ai/storykernel/mcp"
+    }
+  }
+}

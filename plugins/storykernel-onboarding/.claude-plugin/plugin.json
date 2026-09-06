@@ -1,0 +1,10 @@
+{
+  "name": "storykernel-onboarding",
+  "version": "0.2.0-dev.1",
+  "description": "Develop a story idea and create an interactive StoryKernel project in Pickford Dev.",
+  "author": {
+    "name": "Pickford"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

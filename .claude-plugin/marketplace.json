@@ -1,0 +1,15 @@
+{
+  "name": "pickford-dev",
+  "description": "Create interactive StoryKernel projects in the Pickford development environment.",
+  "owner": {
+    "name": "Pickford"
+  },
+  "plugins": [
+    {
+      "name": "storykernel-onboarding",
+      "source": "./plugins/storykernel-onboarding",
+      "description": "Develop a story idea and create an interactive StoryKernel project.",
+      "category": "productivity"
+    }
+  ]
+}

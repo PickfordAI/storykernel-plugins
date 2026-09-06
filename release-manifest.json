@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "sha256": {
+    ".agents/plugins/marketplace.json": "eaef46f1a614f4171b974a7af2032d1e92e38d4d6f6d14ed9d7a69d1c8ddb4af",
+    ".claude-plugin/marketplace.json": "1496f4acc81b2d3c93917dd0f2b85df21707f2d546c31a003d0c29904fb35d83",
+    "README.md": "dd38cf370fedd949e54451b13a9b74252b85ea108739944de417b53910aa31d8",
+    "plugins/storykernel-onboarding/.claude-plugin/plugin.json": "c227899681c50755d93fb9a9d67a17ae2ce7caef250337e28e3672be60e1504a",
+    "plugins/storykernel-onboarding/.codex-plugin/plugin.json": "3a5b7bc2b7b514045727a97d3211c854fac0e9e4f50ad2e242b2478c8bdb352f",
+    "plugins/storykernel-onboarding/.mcp.json": "b2ae6eb34de5d648e279463a69c6cd0b0b4148d19c59871715d185f03f8d0351",
+    "plugins/storykernel-onboarding/skills/storykernel-onboarding/SKILL.md": "9a746b47e8110e46f43d1a7e2e0444d2d3d4f726e7a5687feb041d0178d80aef",
+    "plugins/storykernel-onboarding/skills/storykernel-onboarding/agents/openai.yaml": "47514250f08515bff51b044f146f4ebbfb7faec3a49becabc66ba1a3e933d269",
+    "plugins/storykernel-onboarding/skills/storykernel-onboarding/references/beat-writing.md": "9dcc9162971b358400c69fe4866349fdc873b83120e32e0260ed78c3be849b17"
+  }
+}

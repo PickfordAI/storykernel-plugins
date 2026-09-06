@@ -1,0 +1,20 @@
+{
+  "name": "pickford-dev",
+  "interface": {
+    "displayName": "Pickford Dev"
+  },
+  "plugins": [
+    {
+      "name": "storykernel-onboarding",
+      "source": {
+        "source": "local",
+        "path": "./plugins/storykernel-onboarding"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

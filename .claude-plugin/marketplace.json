@@ -1,14 +1,14 @@
 {
   "name": "pickford-dev",
-  "description": "Create interactive StoryKernel projects in the Pickford development environment.",
+  "description": "Create interactive StoryKernel StoryBundles with your Pickford account.",
   "owner": {
-    "name": "Pickford"
+    "name": "Pickford Dev"
   },
   "plugins": [
     {
-      "name": "storykernel-onboarding",
-      "source": "./plugins/storykernel-onboarding",
-      "description": "Develop a story idea and create an interactive StoryKernel project.",
+      "name": "storykernel-story-blueprint",
+      "source": "./plugins/storykernel-story-blueprint",
+      "description": "Develop a story idea, build a StoryBundle, and watch it play.",
       "category": "productivity"
     }
   ]

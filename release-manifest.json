@@ -1,14 +1,14 @@
 {
   "version": 1,
   "sha256": {
-    ".agents/plugins/marketplace.json": "eaef46f1a614f4171b974a7af2032d1e92e38d4d6f6d14ed9d7a69d1c8ddb4af",
-    ".claude-plugin/marketplace.json": "1496f4acc81b2d3c93917dd0f2b85df21707f2d546c31a003d0c29904fb35d83",
-    "README.md": "dd38cf370fedd949e54451b13a9b74252b85ea108739944de417b53910aa31d8",
-    "plugins/storykernel-onboarding/.claude-plugin/plugin.json": "c227899681c50755d93fb9a9d67a17ae2ce7caef250337e28e3672be60e1504a",
-    "plugins/storykernel-onboarding/.codex-plugin/plugin.json": "3a5b7bc2b7b514045727a97d3211c854fac0e9e4f50ad2e242b2478c8bdb352f",
-    "plugins/storykernel-onboarding/.mcp.json": "b2ae6eb34de5d648e279463a69c6cd0b0b4148d19c59871715d185f03f8d0351",
-    "plugins/storykernel-onboarding/skills/storykernel-onboarding/SKILL.md": "9a746b47e8110e46f43d1a7e2e0444d2d3d4f726e7a5687feb041d0178d80aef",
-    "plugins/storykernel-onboarding/skills/storykernel-onboarding/agents/openai.yaml": "47514250f08515bff51b044f146f4ebbfb7faec3a49becabc66ba1a3e933d269",
-    "plugins/storykernel-onboarding/skills/storykernel-onboarding/references/beat-writing.md": "9dcc9162971b358400c69fe4866349fdc873b83120e32e0260ed78c3be849b17"
+    ".agents/plugins/marketplace.json": "0b9a70ac8f6ba3f506386339a20c7bd6d4f0bdf24da42c6e66066ce1b9339c81",
+    ".claude-plugin/marketplace.json": "f32588a1aaa53752ddc5813c9f730d75bd511ab7e1c999dd4907310750257120",
+    "README.md": "224e1801f99993424465a4ef513672d0cd2bc9d8782cccdc8d02f2f76bf57aa5",
+    "plugins/storykernel-story-blueprint/.claude-plugin/plugin.json": "b9906a87b17080ff88af22eab6559f28558f23220175d9e6096e96d34ba0768e",
+    "plugins/storykernel-story-blueprint/.codex-plugin/plugin.json": "3f276568c4e017ede471ffa315d0dc5154867d19cda271da0d24f1e8372aa9fa",
+    "plugins/storykernel-story-blueprint/.mcp.json": "279667f5b0457a3e60718d47ec6546e4b81b5e260a4782ffbe2350c0f718e6bc",
+    "plugins/storykernel-story-blueprint/skills/storykernel-story-blueprint/SKILL.md": "16da8e566eb3adb0cb75e3dfaafbec141ad12bf4beecacaddf3ec6a5161ce28f",
+    "plugins/storykernel-story-blueprint/skills/storykernel-story-blueprint/agents/openai.yaml": "65469779fdb66412919518baf3ca11b4d6db63fab97275435d80e657b649741b",
+    "plugins/storykernel-story-blueprint/skills/storykernel-story-blueprint/references/beat-writing.md": "72a9d27f94f4678e40d363780c1ef0e60fe916065d337502bf9d3bd7babb9376"
   }
 }

@@ -1,4 +1,0 @@
-interface:
-  display_name: "StoryKernel Onboarding"
-  short_description: "Turn your story idea into an interactive show"
-  default_prompt: "Use $storykernel-onboarding to turn my idea into an interactive show."

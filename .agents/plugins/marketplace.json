@@ -5,10 +5,10 @@
   },
   "plugins": [
     {
-      "name": "storykernel-onboarding",
+      "name": "storykernel-story-blueprint",
       "source": {
         "source": "local",
-        "path": "./plugins/storykernel-onboarding"
+        "path": "./plugins/storykernel-story-blueprint"
       },
       "policy": {
         "installation": "AVAILABLE",

@@ -1,0 +1,4 @@
+interface:
+  display_name: "StoryKernel StoryBlueprint"
+  short_description: "Turn your story idea into an interactive show"
+  default_prompt: "Use $storykernel-story-blueprint to turn my idea into an interactive show."

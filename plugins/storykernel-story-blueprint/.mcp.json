@@ -1,6 +1,6 @@
 {
   "mcpServers": {
-    "storykernel-onboarding": {
+    "storykernel-story-blueprint": {
       "type": "http",
       "url": "https://api.dev.pickford.ai/storykernel/mcp"
     }
